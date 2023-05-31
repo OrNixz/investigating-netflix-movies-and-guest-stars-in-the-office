@@ -15,4 +15,3 @@ This project is the first given by the DataCamp on the Data Scientist with Pytho
 8. Marking non-feature films
 9. Plotting with color!
 10. What next?
-## Folder structure
